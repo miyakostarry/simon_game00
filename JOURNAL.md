@@ -6,11 +6,11 @@
 > [!NOTE]
 > This devlog is mirrored from [Half Life](https://halflife.hackclub.com) ([open the project](https://halflife.hackclub.com/projects/purs8t0iti70nwixzobu7k6c)). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
-> desigining  a board following the tutorial
+> so i followed the guide and made the simons game but added a little twist added reverse pattern you have to remeber the pattern and then press the buttons in reverse order to win
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 4 | Tier 1 | 8.28h | 4 |
+| Week 4 | Tier 1 | 6.13h | 4 |
 
 ## Contents
 
@@ -57,17 +57,11 @@ so now all i was doing here is connect few more connections and was drawing on m
 
 ### 2026-11-01: so basically what i did here is setup the arduino and did the firmware and i'm not that comfortable with writting proper code from scratch so i had to serach up and learn functions used in code and al
 
-**4.18h**
+**2.03h**
 
 so basically what i did here is setup the arduino and did the firmware and i'm not that comfortable with writting proper code from scratch so i had to serach up and learn functions used in code and also did add few more design........and for code i have to go long way it's not like i got everything that i can write whole thing from scratch by myself but i can do pretty much write few things i'm familiar with
 
 ![Screenshot 2026-11-02 010555](https://halflife.hackclub-assets.com/sessions/2vEaKTZ5elK2r7R0ttWmTm9bdLi78qzm/1dd902c4ee1239ae9dcd71c6aa535aeb85d9cc2146ae5a206928a7ea4a1b059c.png)
-
-[Timelapse](https://lookout.hackclub.com/api/media/c0b5aae4-f825-4b3b-bedf-dfc9baef2f9d/video.mp4)
-
-[Timelapse](https://lookout.hackclub.com/api/media/9a7a4a69-dbb7-4c6b-bd84-02ac622762d2/video.mp4)
-
-[Timelapse](https://lookout.hackclub.com/api/media/ede49c1b-c5ee-45e5-8d97-54f2a07e107c/video.mp4)
 
 [Timelapse](https://lookout.hackclub.com/api/media/4da9b292-ceef-4a2c-a2fc-0869161a9bc5/video.mp4)
 
