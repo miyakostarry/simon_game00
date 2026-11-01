@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 4 | Tier 1 | 6.13h | 4 |
+| Week 4 | Tier 1 | 6.5h | 4 |
 
 ## Contents
 
@@ -57,7 +57,7 @@ so now all i was doing here is connect few more connections and was drawing on m
 
 ### 2026-11-01: so basically what i did here is setup the arduino and did the firmware and i'm not that comfortable with writting proper code from scratch so i had to serach up and learn functions used in code and al
 
-**2.03h**
+**2.4h**
 
 so basically what i did here is setup the arduino and did the firmware and i'm not that comfortable with writting proper code from scratch so i had to serach up and learn functions used in code and also did add few more design........and for code i have to go long way it's not like i got everything that i can write whole thing from scratch by myself but i can do pretty much write few things i'm familiar with
 
@@ -66,3 +66,5 @@ so basically what i did here is setup the arduino and did the firmware and i'm n
 [Timelapse](https://lookout.hackclub.com/api/media/4da9b292-ceef-4a2c-a2fc-0869161a9bc5/video.mp4)
 
 [Timelapse](https://lookout.hackclub.com/api/media/47a71e46-55bc-425c-b433-9c555ee3452b/video.mp4)
+
+[Timelapse](https://lookout.hackclub.com/api/media/fada7073-6422-4d4a-99b1-87c9fd55a0a8/video.mp4)
